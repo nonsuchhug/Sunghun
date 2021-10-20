@@ -102,6 +102,10 @@ th {
 img {
   max-width:100%;
 }
+img.thumbnail {
+  width: 1000px;
+  height: 800px;
+}
 
 header {
   width:270px;
